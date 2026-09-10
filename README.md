@@ -170,19 +170,21 @@ An eCommerce project focused on fitness gear, tech accessories, and creator esse
 ---
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=donquilabmario-cpu&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Mario Donquilab GitHub Stats"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=donquilabmario-cpu&layout=compact&hide_border=true"
-    alt="Mario Donquilab Most Used Languages"
-  />
-</p>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=donquilabmario-cpu&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=false"
+  height="165"
+  alt="Mario Donquilab GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=donquilabmario-cpu&layout=compact&theme=default&hide_border=true"
+  height="165"
+  alt="Mario Donquilab Most Used Languages"
+/>
+
+</div>
 
 > My GitHub is growing as I publish selected development work, reusable components, and project examples.
 
