@@ -117,3 +117,54 @@ WordPress website development, WooCommerce customization, product setup, eCommer
 Website maintenance, updates, migrations, bug fixing, content implementation, troubleshooting, and long-term technical support.
 
 ---
+## 🚀 Featured Projects
+
+Here are some of the websites and digital projects I've worked on, combining development, design, optimization, and ongoing technical support.
+
+### 👨‍💻 Mario Donquilab — Personal Portfolio
+
+A modern personal portfolio built to showcase my web development, UI/UX, digital creative work, professional experience, and services.
+
+**My Role:** Web Developer • UI/UX Designer • Designer
+
+**Built With:** Joomla • HTML5 • CSS3 • JavaScript • Responsive Design
+
+🔗 **[Visit Website](https://mariodonquilab.com)**
+
+---
+
+### 💼 Janzco Virtual Services Solutions
+
+A modern business website for Janzco Virtual Services Solutions, designed to present virtual assistance and digital services through a professional, conversion-focused online presence.
+
+**My Role:** Web Developer • UI/UX Designer • Joomla Developer
+
+**Built With:** Joomla • Cassiopeia Child Template • HTML5 • CSS3 • JavaScript • SEO
+
+🔗 **[Visit Website](https://www.janzcovirtualservicessolutions.com/)**
+
+---
+
+### ✈️ Best Single Travel
+
+Ongoing website modernization and development for a singles travel company, including responsive UI improvements, custom destination and trip layouts, reusable components, technical fixes, content implementation, and SEO improvements.
+
+**My Role:** Web Developer • Webmaster • UI/UX • SEO
+
+**Technologies:** Joomla • HTML5 • CSS3 • JavaScript • Responsive Design • SEO
+
+🔗 **[Visit Website](https://bestsingletravel.com)**
+
+---
+
+### 🛒 Spaneum
+
+An eCommerce project focused on fitness gear, tech accessories, and creator essentials, built around a modern online shopping experience.
+
+**My Role:** Web Developer • eCommerce Setup • UI/UX
+
+**Built With:** WordPress • WooCommerce • Blocksy • Responsive Design
+
+🔗 **[Visit Website](https://spaneum.com)**
+
+---
