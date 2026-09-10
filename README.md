@@ -31,8 +31,6 @@ clean design, practical development, and real business goals.
 
 ---
 
----
-
 ## 👨‍💻 About Me
 
 I'm a Web Developer and Digital Creative based in Davao City, Philippines,
