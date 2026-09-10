@@ -33,43 +33,60 @@ clean design, practical development, and real business goals.
 
 ## 👨‍💻 About Me
 
-I'm a Web Developer and Digital Creative based in Davao City, Philippines,
-with experience building, redesigning, and optimizing websites for businesses
-and clients across different industries.
+I'm a **Web Developer & Digital Creative** based in Davao City, Philippines, focused on building modern, responsive, and business-driven websites.
 
-I enjoy combining clean design with practical development to create websites
-that are fast, responsive, easy to use, and built around real business goals.
+My work combines **web development, UI/UX design, website optimization, and SEO** to create digital experiences that don't just look good — they are designed to perform.
 
-- 🌐 Building modern websites with **Joomla, WordPress, HTML, CSS & JavaScript**
-- 🎨 Creating responsive interfaces and **UI/UX designs**
-- ⚡ Improving website **performance, usability & SEO**
-- 🛒 Working with **WordPress, WooCommerce & eCommerce websites**
-- 🧩 Developing custom layouts, modules, templates & reusable components
-- 🔧 Managing website migrations, redesigns, maintenance & troubleshooting
-- 🚀 Continuously learning and improving my development workflow
+I specialize in **Joomla development and customization**, while also working with WordPress, WooCommerce, and custom front-end development.
+
+- 🌐 Building and redesigning modern business websites
+- 🧩 Joomla development, customization & template styling
+- 🎨 UI/UX design & responsive interfaces
+- ⚡ Website performance & speed optimization
+- 🔍 Technical & on-page SEO
+- 🛒 WordPress & WooCommerce development
+- 🔧 Website maintenance, migrations & troubleshooting
+- 📱 Mobile-first & responsive web development
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Front-End
+### Languages & Front-End
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
 
-### Back-End & CMS
+### CMS & eCommerce
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,wordpress,mysql" />
+  <img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" alt="Joomla">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
 </p>
 
-**Joomla • WordPress • WooCommerce**
-
-### Tools & Workflow
+### Database & Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</p>
+
+### Digital & Web Expertise
+
+<p>
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-7D5CFF?style=for-the-badge" alt="UI/UX Design">
+  <img src="https://img.shields.io/badge/SEO-Optimization-00A86B?style=for-the-badge" alt="SEO">
+  <img src="https://img.shields.io/badge/Responsive-Web_Design-1687FF?style=for-the-badge" alt="Responsive Web Design">
+  <img src="https://img.shields.io/badge/Web-Performance-FF6B35?style=for-the-badge" alt="Web Performance">
 </p>
 
 ---
