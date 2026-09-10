@@ -93,13 +93,27 @@ I specialize in **Joomla development and customization**, while also working wit
 
 ## 💼 What I Do
 
-```text
-🌐 Web Development
-🎨 UI/UX & Web Design
-🧩 Joomla Development
-📝 WordPress Development
-🛒 WooCommerce & eCommerce
-⚡ Website Speed Optimization
-🔍 Technical & On-Page SEO
-📱 Responsive Web Development
-🔧 Website Maintenance & Troubleshooting
+I help businesses build, improve, and maintain websites that are modern, responsive, user-friendly, and aligned with their goals.
+
+### 🌐 Web Development
+Custom website development, redesigns, landing pages, responsive layouts, and reusable front-end components using Joomla, WordPress, HTML, CSS, JavaScript, and PHP.
+
+### 🧩 Joomla Development
+Joomla template customization, Cassiopeia child templates, module positioning, layout improvements, CSS/JavaScript enhancements, troubleshooting, upgrades, and site migrations.
+
+### 🎨 UI/UX & Web Design
+Clean, modern interfaces focused on usability, responsive behavior, visual hierarchy, conversion, and consistent branding across desktop and mobile.
+
+### ⚡ Website Optimization
+Performance improvements, page-speed optimization, layout cleanup, technical fixes, responsive adjustments, and overall user-experience improvements.
+
+### 🔍 SEO & Website Visibility
+Technical SEO, on-page optimization, content structure, metadata, internal linking, Search Console support, and SEO-friendly website improvements.
+
+### 🛒 WordPress & WooCommerce
+WordPress website development, WooCommerce customization, product setup, eCommerce layouts, maintenance, and troubleshooting.
+
+### 🔧 Ongoing Website Support
+Website maintenance, updates, migrations, bug fixing, content implementation, troubleshooting, and long-term technical support.
+
+---
