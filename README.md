@@ -168,3 +168,52 @@ An eCommerce project focused on fitness gear, tech accessories, and creator esse
 🔗 **[Visit Website](https://spaneum.com)**
 
 ---
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=donquilabmario-cpu&show_icons=true&hide_border=true&rank_icon=github"
+    alt="Mario Donquilab GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=donquilabmario-cpu&layout=compact&hide_border=true"
+    alt="Mario Donquilab Most Used Languages"
+  />
+</p>
+
+> My GitHub is growing as I publish selected development work, reusable components, and project examples.
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **web development projects, collaborations, freelance opportunities, and long-term website support**.
+
+If you're looking for help building, redesigning, optimizing, or maintaining a website, feel free to connect with me.
+
+<p align="center">
+
+<a href="https://mariodonquilab.com">
+  <img src="https://img.shields.io/badge/Visit_My_Portfolio-1687FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+
+<a href="https://www.linkedin.com/in/mario-donquilab-jr/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💻 Building Better Digital Experiences
+
+**Web Development • Joomla • WordPress • UI/UX • SEO**
+
+<sub>Designed & built by Mario Donquilab Jr.</sub>
+
+</div>
