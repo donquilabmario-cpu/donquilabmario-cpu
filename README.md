@@ -170,23 +170,16 @@ An eCommerce project focused on fitness gear, tech accessories, and creator esse
 ---
 ## 📊 GitHub Activity
 
-<div align="center">
+I'm actively building my GitHub portfolio and publishing selected development work, reusable components, and project examples.
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=donquilabmario-cpu&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=false"
-  height="165"
-  alt="Mario Donquilab GitHub Stats"
-/>
+### Currently Building
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=donquilabmario-cpu&layout=compact&theme=default&hide_border=true"
-  height="165"
-  alt="Mario Donquilab Most Used Languages"
-/>
+- 🧩 Reusable Joomla & Cassiopeia customizations
+- 🎨 Responsive front-end UI components
+- 💻 HTML, CSS & JavaScript development examples
+- 🔧 Practical website development solutions
 
-</div>
-
-> My GitHub is growing as I publish selected development work, reusable components, and project examples.
+> More projects and open-source examples are coming as I continue expanding my public development portfolio.
 
 ---
 
