@@ -1,19 +1,35 @@
-<h1 align="center">Hi 👋, I'm Mario Donquilab Jr.</h1>
+<div align="center">
 
-<h3 align="center">
-Web Developer • UI/UX Designer • Joomla Specialist • Digital Creative
-</h3>
+# 👋 Hi, I'm Mario Donquilab Jr.
 
-<p align="center">
-I build modern, responsive, and user-focused websites that help businesses
-strengthen their online presence and grow.
+### Web Developer • UI/UX Designer • Joomla Specialist • Digital Creative
+
+<p>
+I build modern, responsive, and user-focused websites that combine<br>
+clean design, practical development, and real business goals.
 </p>
 
-<p align="center">
-  <a href="https://mariodonquilab.com">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/mario-donquilab-jr/">LinkedIn</a> •
-  <a href="https://www.janzcovirtualservicessolutions.com/">Janzco Virtual Services Solutions</a>
-</p>
+<br>
+
+<a href="https://mariodonquilab.com">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-1687FF?style=for-the-badge" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mario-donquilab-jr/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://www.janzcovirtualservicessolutions.com/">
+  <img src="https://img.shields.io/badge/Janzco_Virtual_Services-1EAA80?style=for-the-badge" alt="Janzco Virtual Services Solutions">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=donquilabmario-cpu&style=flat-square&label=Profile+Views" alt="Profile Views">
+
+</div>
+
+---
 
 ---
 
